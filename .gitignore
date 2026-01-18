@@ -1,0 +1,44 @@
+# Dependencies
+node_modules/
+frontend/node_modules/
+backend/venv/
+backend/__pycache__/
+.venv/
+venv/
+
+# Build outputs
+frontend/.next/
+frontend/out/
+frontend/build/
+dist/
+build/
+
+# Environment variables (Crucial!)
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+backend/.env
+frontend/.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+*.log
+
+# Misc
+.vercel
+*.tsbuildinfo
+frontend/next-env.d.ts
+frontend/build_output*.txt
+frontend/lint_*.txt
+frontend/lint_*.json
+frontend/lint_report.json
+frontend/dummy_data.csv
