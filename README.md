@@ -2,7 +2,7 @@
 
 **Cognify** is a state-of-the-art AI platform designed to transform raw data into actionable decision intelligence. Built with a modular multi-agent architecture, it automates data ingestion, exploratory analysis, predictive modeling, and anomaly detection—providing clear, human-readable reasoning for every decision.
 
-![Cognify Header](https://raw.githubusercontent.com/2006-2006/cognify/main/frontend/public/favicon.ico) *(Replace with actual banner if available)*
+![Cognify Banner](frontend/public/banner.png)
 
 ---
 
